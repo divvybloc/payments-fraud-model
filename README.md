@@ -1,7 +1,7 @@
 # Payments Fraud Detection Model
 
 ### Project Overview
-WEX needed a robust fraud detection framework to reduce fraud incidents in their payment gateway system, enhance customer trust, and address concerns about transaction security.
+Needed a robust fraud detection framework to reduce fraud incidents in the payment gateway system, enhance customer trust, and address concerns about transaction security.
 
 ### Key Features
 - Machine learning-based fraud detection model.
